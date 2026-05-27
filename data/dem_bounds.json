@@ -1,0 +1,16 @@
+{
+  "bounds": [
+    [
+      3.474209203100001,
+      24.151929856
+    ],
+    [
+      12.218999864,
+      35.869949341606
+    ]
+  ],
+  "vmin": 392.0,
+  "vmax": 949.0,
+  "source_file": "SSDDEMclip.tif",
+  "note": "Pre-rendered from GeoTIFF for JupyterLite because rasterio is not generally available in Pyodide."
+}
